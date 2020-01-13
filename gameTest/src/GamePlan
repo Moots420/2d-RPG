@@ -1,0 +1,55 @@
+GAMEPLAN
+-----------
+
+NPC
+-----------
+--slime
+--Cow
+Shopkeeper
+Alien 
+
+
+LEVELS
+-----------
+Main Area (Portal To End Game, Shop, Links to Other Levels)
+Shop
+Volcano Level
+Boat Level?
+
+ITEMS
+-----------
+--Health Potion (Apple && ?)
+Axe
+--Bow & Arrow
+Gems
+--Coins
+
+
+FEATURES TO IMPLEMENT
+-----------
+--Rideable Cows 
+SaveGame
+--Coins
+Fade In and Out
+--Health Bar
+--Sprint Bar
+--Experience and Level progression?
+Loading Bar
+--Ui TextOutput 
+**Interaction Promts
+--Respawn / Checkpoints
+Settings
+Custom Username
+Cursor
+--Sounds 
+--Pause
+**Sprint
+**Fix Direction Animation
+Crafting 
+--Inventory
+
+
+quests
+-----------
+4 Gems in Different areas to Open portal in Main Town, Leads to endgame.
+return farmers cows;
